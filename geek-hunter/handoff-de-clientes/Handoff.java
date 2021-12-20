@@ -1,7 +1,4 @@
 import java.util.*;
-import java.util.ArrayList;
-import java.util.Arrays.*;
-import java.util.stream.Collectors;
 
 public class Handoff {
 
@@ -26,16 +23,8 @@ public class Handoff {
 
         scanner.close();
 
-        // System.out.println("vendedores na fila: " + numeroDeVendedoresNaFila);
-        // System.out.println("Clientes: " + numeroDeClientes);
-        // System.out.println("id de um vendedor: " + idDoVendedor);
-
         Collections.rotate(filaDeVendedoresPorID, -numeroDeClientes);
-        // System.out.println("ids dos vendedores [apos rotate]: " +
-        // filaDeVendedoresPorID);
-        // System.out.println("id primeira posição: " + filaDeVendedoresPorID.get(0));
-        // System.out.println("clientes para cadastro: " +
-        // filaDeVendedoresPorID.indexOf(String.valueOf(idDoVendedor)));
+
         System.out.println(filaDeVendedoresPorID.get(0));
         System.out.println(filaDeVendedoresPorID.indexOf(String.valueOf(idDoVendedor)));
     }
