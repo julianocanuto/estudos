@@ -2,7 +2,7 @@
 
 - Instrutores/Empresa/Linkedin:
   - Venilton Falvo Jr - DIO - https://www.linkedin.com/in/falvojr/
-  - Thiago Prado - Santander - 
+  - Thiago Prado - Santander - https://www.linkedin.com/in/thiagoarantesprado/
   - Marcus Vinicius - Santander - https://www.linkedin.com/in/marcus-vinicius-almeida-silva/
   - Claudia Tachira - Santander - https://www.linkedin.com/in/claudia-tachira-cissp-671490/
 
