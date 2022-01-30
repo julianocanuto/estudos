@@ -33,3 +33,7 @@
 5. [OpenAPI Specification v3.1.0](https://spec.openapis.org/oas/latest.html)
 6. [OWASP API Security Project](https://owasp.org/www-project-api-security/)
 7. [API Security Articles](https://apisecurity.io/)
+8. [Livro: API Management_ An Architect's Guide to Developing and Managing APIs for Your Organization]()
+9. [Livro: REST API Design Rulebook]()
+10. [Livro: Irresistible APIs_ Designing web APIs that developers will love]()
+11. [Livro: Designing Web APIs_ Building APIs That Developers Love]()
